@@ -1,0 +1,46 @@
+﻿@model List<Category>
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th scope="col">Name</th>
+            
+
+            <th scope="col">
+                action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Category item in Model)
+        {
+
+            <tr>
+
+                <td>@item.Name</td>
+
+
+
+                <td>  <a href="/Category/Details?id=@item.Id">View All Movies</a>  </td>
+            </tr>
+
+
+        }
+        @* @foreach (var item in (List<string> )  ViewData["newnote"])
+        {
+
+        <tr>
+        <th scope="row">@item</th>
+
+
+        </tr>
+
+
+        }*@
+
+
+    </tbody>
+</table>
+
+

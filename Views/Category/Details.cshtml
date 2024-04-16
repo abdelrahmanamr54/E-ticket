@@ -1,0 +1,36 @@
+﻿<partial name="_partialview" />
+
+
+
+@*@model List<Movie>
+<div class="d-flex">
+    <div class="row">
+
+        @foreach (Movie item in Model)
+        {
+
+
+            <div class="card " style="width: 18rem;">
+                <h5 class="card-title">@item.Name</h5>
+                <img src="/images/movies/@item.ImgUrl" width="50px" class="card-img-top" alt="...">
+                <div class="card-body">
+
+                    <p> Price: <a class=" btn btn-secondary">   @item.Price</a></p>
+                    <p class="card-text"> Cinema: @item.Cinema.Name</p>
+                    <p class="card-text"> StartDate: @item.StartDate</p>
+                    <p class="card-text"> EndDate: @item.EndDate</p>
+                    <p class="card-text"> Category: @item.Category.Name</p>
+
+                    <p>  <a class=" btn btn-primary">  @item.movieStatus</a></p>
+
+                    <a> <a class="btn btn-light" href="/Movies/GtDetails?id=@item.Id">More detaills</a>  <button class=" btn btn-secondary"> Book Ticket </button>  </a>
+                  
+                </div>
+            </div>
+
+
+
+
+        }
+    </div>
+</div>*@

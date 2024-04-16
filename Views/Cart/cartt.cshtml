@@ -1,0 +1,88 @@
+﻿@model List<Item>
+
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th scope="col">.</th>
+            <th scope="col">Name</th>
+          @*  <th scope="col">Deadline</th>*@
+
+            <th scope="col">
+                Quantity
+            </th>
+            <th scope="col">
+                Cinema
+            </th>
+            <th scope="col">
+               Action
+            </th>
+            <th scope="col">
+                SubTotal
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Item item in Model)
+        {
+           
+
+            <tr>
+@*     <img src="/images/movies/@movie.ImgUrl" width="50px" class="card-img-top" alt="...">*@
+                <td class="h-25">       <img  src="/images/movies/@item.movie.ImgUrl" width="30px"   class="" alt="..."></td>
+                <td>  @item.movie.Name</td>
+
+                <td>  @item.Quantity</td>
+                <td>  @item.movie.Cinema.Name</td>
+                <td>       <a href="/Cart/delete?id=@item.Id">       <i class="bi bi-archive-fill"></i></a> </td>
+
+                <td> $@{
+                        double totalprice;
+                        if (@item.Quantity==1)
+                        {
+                            totalprice =@item.movie.Price;
+                        }
+                        else
+                        {
+                            totalprice = @item.movie.Price * @item.Quantity;
+                        }
+                        @totalprice.ToString("N2")
+                        
+                
+                     
+                }
+                    </td>
+                @*<td>  <a href="/Todoitems/edit?id=@item.Id">Edit</a> | <a href="/Todoitems/delete?id=@item.Id">delete</a></td>*@
+            </tr>
+
+
+        }
+      
+       
+
+
+    </tbody>
+ @*   <p>Total Price: $@ViewBag.TotalPrice</p>*@
+</table>
+
+<form method="get" action="/Cart/SendEmail">
+
+    <div class="d-grid gap-2">
+
+        <button class="btn btn-primary" type="submit">Pay: $@ViewBag.TotalPrice.ToString("N2")!</button>
+    </div>
+   
+    @*<a href="">  <button class="btn btn-outline-secondary" type="submit"> submit </button></a>*@
+
+
+
+
+</form>
+
+
+@*<div class="d-grid gap-2 d-md-flex justify-content-md-end">
+
+    <a href="">  <button class="btn btn-outline-secondary" type="submit"> submit </button></a>
+</div>
+*@

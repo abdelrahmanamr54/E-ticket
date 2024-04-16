@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-ticket.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-ticket.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\Logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\cast\\cast1.png",
+      "PackagePath": "staticwebassets\\images\\cast\\cast1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\cast\\cast2.png",
+      "PackagePath": "staticwebassets\\images\\cast\\cast2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\cast\\cast3.png",
+      "PackagePath": "staticwebassets\\images\\cast\\cast3.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\cast\\cast4.png",
+      "PackagePath": "staticwebassets\\images\\cast\\cast4.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\cast\\cast5.png",
+      "PackagePath": "staticwebassets\\images\\cast\\cast5.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\cast\\cast6.png",
+      "PackagePath": "staticwebassets\\images\\cast\\cast6.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\Bat.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\Bat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\Dune.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\Dune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\Giants.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\Giants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\Shekko.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\Shekko.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\apesjpg.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\apesjpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\bad.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\bad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\black.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\cartoon1.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\cartoon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\chi.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\chi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\deadbool.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\deadbool.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\fasel.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\fasel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\fast.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\fast.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\marly.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\marly.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie1.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie10.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie10.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie2.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie3.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie3.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie4.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie4.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie5.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie5.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie6.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie6.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie7.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie7.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie8.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie8.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\movie9.png",
+      "PackagePath": "staticwebassets\\images\\movies\\movie9.png"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\noura.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\noura.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\spider.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\spider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\theb.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\theb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\images\\movies\\venom.jpg",
+      "PackagePath": "staticwebassets\\images\\movies\\venom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\fontawesome\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abd Elrahman\\source\\repos\\E-ticket\\E-ticket\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-ticket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-ticket.props",
+      "PackagePath": "build\\E-ticket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-ticket.props",
+      "PackagePath": "buildMultiTargeting\\E-ticket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-ticket.props",
+      "PackagePath": "buildTransitive\\E-ticket.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

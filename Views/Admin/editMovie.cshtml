@@ -1,0 +1,72 @@
+﻿@model Movie
+@*action="/Admin/edit_Movie"*@
+<form id="myForm" method="post" >
+    <div class="form-group">
+        <label asp-for="Name"> New Film Name</label>
+        <input type="text" class="form-control" value="@Model.Name" name="Name" asp-for="Name" id="exampleInputName" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"> New  Description</label>
+        <input type="text" class="form-control" value="@Model.Description" name="Description" asp-for="Description" id="exampleInputName" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"> New  Price</label>
+        <input type="text" class="form-control" name="Price" value="@Model.Price" asp-for="Price" id="exampleInputName" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label asp-for ="ImgUrl"> New  ImgUrl</label>
+        <input type="text" class="form-control" name="ImgUrl" value="@Model.ImgUrl" asp-for="ImgUrl" id="exampleInputName" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label asp-for="TrailerUrl"> New  TrailerUrl</label>
+        <input type="text" class="form-control" name="TrailerUrl" value="@Model.TrailerUrl" asp-for="TrailerUrl" id="exampleInputName" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label asp-for="StartDate"> New  StartDate</label>
+        <input type="datetime-local" class="form-control" name="StartDate" value="@Model.StartDate"  id="exampleInputName" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label asp-for="EndDate"> New  EndDate</label>
+        <input type="datetime-local" class="form-control" name="EndDate" value="@Model.EndDate" id="exampleInputName" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label for="CategoryId">Category</label>
+        @*<input type="number" name="DepartmentId" class="form-control" id="DepartmentId" placeholder="Enter Department Id">*@
+
+        <select  class="form-select" name="CategoryId">
+            @foreach (var item in ViewBag.Categories)
+            {
+                @* if (Model.CategoryId == item.Id)
+            {
+            <option value="@item.Id" selected>@item.Name</option>
+            }*@
+
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="CinemaId">Cinema</label>
+        @*<input type="number" name="DepartmentId" class="form-control" id="DepartmentId" placeholder="Enter Department Id">*@
+
+        <select class="form-select" name="CinemaId">
+            @foreach (var item in ViewBag.cinemas)
+            {
+                @* if (Model.CategoryId == item.Id)
+            {
+            <option value="@item.Id" selected>@item.Name</option>
+            }*@
+
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+
+
+
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+

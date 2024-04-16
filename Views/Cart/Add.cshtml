@@ -1,0 +1,29 @@
+﻿@model Movie
+
+<h1>
+    @* @ViewData["msg"]*@
+
+</h1>
+
+
+@*action="/Todoitems/Edit"*@
+
+<form id="myForm" method="post" action="/Cart/AddToCart?id=@Model.Id">
+    <div class="form-group">
+        <label asp-for="Name">movieName</label>
+        <input type="text" class="form-control" value="@Model.Name" id="exampleInputName" asp-for="Name" required placeholder="">
+    </div>
+    <div class="form-group">
+        <label asp-for="Name">Quantity</label>
+        <input type="number" class="form-control" id="floatingInput" placeholder="How Many Tickets ?..." name="quantity">
+       
+    </div>
+    <div class="form-group">
+        <label asp-for="Name">Price</label>
+        <input type="text" class="form-control" value="@Model.Price" id="exampleInputName" asp-for="Name" required placeholder="">
+
+    </div>
+   
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
